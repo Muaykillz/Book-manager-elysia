@@ -1,6 +1,6 @@
 # Book Management API 📚
 
-This is a Book Management API built using [Elysia](https://elysia.dev/), a lightweight and fast web framework for Node.js. The API provides endpoints for managing books and user authentication.
+This is a Book Management API built using [ElysiaJS](https://elysiajs.com/), a lightweight and fast web framework for Node.js. The API provides endpoints for managing books and user authentication.
 
 ## Features
 
